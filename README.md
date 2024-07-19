@@ -1,2 +1,5 @@
 # mini_BigLiuGPT
 一个用小说训练的很小的GPT模型
+GPTmodel_and_train文件夹下是训练所需的python文件，分词器，已训练好的模型。
+Labview2021和Labview2024文件夹中分别是两个不同版本下对python的调用代码和软件运行界面。
+可能涉及版权因素，文件中没有上传本次训练的数据
